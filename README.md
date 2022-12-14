@@ -3,8 +3,6 @@ StinkyEngine is a semi-lowend game engine. It has a very powerful entity/Ui hybr
 
 _**I haven't uploaded StinkyEngine to GitHub yet but can still try out our Framework here:**_ [StinkyEngine Package](https://www.nuget.org/packages/StinkyEngine)
 
-I haven't uploaded StinkyEngine to GitHub yet but can still try out our Framework here: StinkyEngine Package
-
 > # To create a new Project?
 
 1. Create a Console app OR create a monogame project.
